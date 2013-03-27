@@ -1,4 +1,4 @@
-name             'php54'
+name             'chef-php54'
 maintainer       'YOUR_COMPANY_NAME'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
